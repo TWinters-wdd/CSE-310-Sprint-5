@@ -12,7 +12,7 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. First step here
+1. Install TypeScript (npm install typescript --save-dev)
 2.
 3.
 
