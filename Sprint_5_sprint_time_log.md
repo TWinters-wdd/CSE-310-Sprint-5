@@ -24,11 +24,11 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-|Date      |Category|Description                                                |Total Minutes|
+|Date      |Category|Description                                                |  Total Time |
 |----------|:------:|-----------------------------------------------------------|:-----------:|
 |11/16/2026|   IM   |Set up basic project files, and started W3Schools Tutorial.|    01:05    |
-|          |        |                                                           |             |
-|          |        |                                                           |             |
+|11/18/2026|   IM   |Continued W3Schools Tutorial.                              |    00:57    |
+|11/19/2026|   IM   |W3Schools Tutorial. Created basic HTML/CSS of Notes App.   |    01:05    |
 |          |        |                                                           |             |
 |          |        |                                                           |             |
 |          |        |                                                           |             |
